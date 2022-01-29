@@ -1,13 +1,10 @@
-<div align="center">
-<img src="https://github.com/aanya-trehan/aanya-trehan/blob/main/aanya_banner.png" align="center" style="width: 100%" />
-</div>  
-  
 
 ## About me  
   
 
 - I am pursuing my 2nd year of B.Tech in Computer Science with a minor in Biosciences at IIIT Delhi.  
-
+- I am currently working in understanding the working of the metaverse and simulatanoesuly improving my skills in CP and DSA
+- I am exploring the fields of design and genetics (and using technology for it), apart from computer science.
   
   
 
