@@ -1,4 +1,8 @@
 
+## Heyy! I am Vaibhav Jaiswal
+
+https://sixth-primula-a17.notion.site/Hi-My-name-is-Vaibhav-Jaiswal-54b35782a87a43a09f3a417f0a71969d
+
 ## About me  
   
 
@@ -26,10 +30,10 @@
 
 ## Connect with me  
 <a href="https://github.com/vaibhuujaiswal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
 </a>
 <a href="https://www.linkedin.com/in/vaibhav-jaiswal-58103a202/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
 </a>  
   
 
