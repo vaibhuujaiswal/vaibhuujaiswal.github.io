@@ -44,3 +44,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhuujaiswal&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  
+ ![Profile views counter](https://komarev.com/ghpvc/?username=vaibhuujaiswal&&style=flat-square)  
+
