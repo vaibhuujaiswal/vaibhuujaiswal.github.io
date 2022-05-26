@@ -7,7 +7,7 @@
 - I am pursuing my 2nd year of B.Tech in Computer Science with a minor in Biosciences at IIIT Delhi.  
 - I am currently working in understanding the working of the metaverse and simulatanoesuly improving my skills in CP and DSA
 - I am exploring the fields of design and genetics (and using technology for it), apart from computer science.
-- I am a machine learning enthusiast, I work in computer vision, deep learning, sentiment analysis and text analysis
+- I am a machine learning enthusiast, I work in computer vision, deep learning, sentiment analysis and text analysis. I am currently exploring affective computing and the routines as well as the protocols involved to collect data (from EEG, GSR etc.) regarding neuromarketing and user feedback
   
   
 
