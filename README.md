@@ -1,69 +1,111 @@
+# Kross By Themefisher
 
-## Heyy! I am Vaibhav Jaiswal
+Kross is a creative, sleek and modern personal portfolio website template with a gorgeous appearance. It appears with an amazing, stunning graphics.
 
-## About me  
-  
+<!-- demo -->
+## Example Site
 
-- I am pursuing my 4th year of B.Tech in Computer Science with a minor in Biosciences at IIIT Delhi.  
-- Working on problem solving ability.
-- Learning about new data structures and algorithms everyday!! 
-- I am exploring the fields of design and genetics (and using technology for it), apart from computer science.
-- I am a machine learning enthusiast. I am currently exploring affective computing and the routines as well as the protocols involved to collect data (from EEG, GSR etc.) regarding neuromarketing and user feedback
-  
-  
+| [![](screenshots/homepage.png)](https://demo.themefisher.com/kross/) | [![](screenshots/about.png)](https://demo.themefisher.com/kross/about.html) | [![](screenshots/portfolio.png)](https://demo.themefisher.com/kross/portfolio.html) |
+|:---:|:---:|:---:|
+| **Home**  | **About**  | **Portfolio** |
+| [![](screenshots/blog.png)](https://demo.themefisher.com/kross/blog.html) | [![](screenshots/blog-details.png)](https://demo.themefisher.com/kross/blog-single.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/kross/contact.html) |
+| **Blog** | **Blog Details** | **Contact** |
 
-<br/>  
+👉🏻[View Live Preview](https://demo.themefisher.com/kross/)
 
+<!-- pages -->
+## Pages
 
-## My Skill Set  
-<p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+* **Homepage**
+* **About**
+* **Portfolio**
+* **Blog**
+* **Blog Details**
+* **Contact**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<!-- download -->
+## Download And installation
 
-  [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/vaibhuujaiswal/)](https://github.com/vaibhuujaiswal/)
-[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/vaibhuujaiswal/)](https://github.com/vaibhuujaiswal/)
+Download this template from [Github](https://github.com/themefisher/kross/archive/main.zip)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/ArkaSarkar19/)
-  
-[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/vaibhuujaiswal/)](https://github.com/vaibhuujaiswal/)
-[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/vaibhuujaiswal/)](https://github.com/vaibhuujaiswal/)
-[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/vaibhuujaiswal/)](https://github.com/vaibhuujaiswal/)
+<!-- installation -->
+### Basic Usages
 
-</p>
-<br/>  
+After downloading the template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
 
+### Advanced Usage
 
-## Connect with me  
-<a href="https://github.com/vaibhuujaiswal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/vaibhav-jaiswal-58103a202/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+For advanced usage, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
 
-<br/>  
+#### Install prerequisites (once for a machine)
 
-## Github Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhuujaiswal&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
+* **Gulp Installation:** Install gulp globally from your terminal
 
-[![Aflah's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhuujaiswal&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+```
+npm install --global gulp-cli
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhuujaiswal&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  
+Or visit the original [Gulp docs](https://gulpjs.com/docs/en/getting-started/quick-start)
 
+#### Local setup
+
+After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+
+* Install dependencies
+
+```
+npm install
+```
+
+* Run locally
+
+```
+npm run dev
+```
+
+After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live reload the browser when changes are saved.
+
+#### Production Build
+
+After finishing all the customization, you can create a production build by running this command.
+
+```
+npm run build
+```
+
+Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
+
+👉🏻 [visit documentation](https://docs.themefisher.com/kross/)
+
+<!-- reporting issue -->
+## Reporting Issues
+
+We use GitHub Issues as the official bug tracker for the Kross Template. Please Search [existing issues](https://github.com/themefisher/Kross-Creative-Portfolio-Template/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Kross-Creative-Portfolio-Template/issues).
+
+<!-- support -->
+## Technical Support or Questions (Paid)
+
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+
+<!-- licence -->
+## License
+
+Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+
+**Code License:** Released under the [MIT](https://github.com/themefisher/constra/blob/main/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+
+<!-- resources -->
+## Resources
+
+Some third-party plugins that we used to build this template. Please check their license.
+
+* **Bootstrap v4.5**: <https://getbootstrap.com/docs/4.5/getting-started/introduction/>
+* **Jquery v3.5.1**: <https://jquery.com/download/>
+* **Google Fonts**: <http://fonts.google.com/>
+* **Themify Icons**: <https://themify.me/themify-icons/>
+* **Slick**: <https://kenwheeler.github.io/slick/>
+* **Shuffle**: <https://vestride.github.io/Shuffle/>
